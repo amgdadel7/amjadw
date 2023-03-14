@@ -2834,7 +2834,7 @@ p {
 
 @media (min-width: 321px) and (max-width: 375px) {
     .slide-content {
-        margin: 0 40px
+        margin: 0 55px
     }
     .swiper-navBtn {
         display: block;
@@ -3094,6 +3094,7 @@ p {
     .titel-part-tow h2 {
         text-align: right;
         font-size: 15px !important;
+        background-size: cover;
         font-family: myFirstFont;
         font-weight: normal;
         margin-bottom: 26px;
@@ -3101,7 +3102,6 @@ p {
     .app-daownload-section {
         height: 515px;
         background: url('../images/Group 6014.svg') no-repeat;
-        background-size: cover;
     }
     .content-app-daownload-section {
         position: absolute;
@@ -3173,7 +3173,7 @@ p {
 
 @media (min-width: 376px) and (max-width: 425px) {
     .slide-content {
-        margin: 0 40px
+        margin: 0 60px
     }
     .swiper-navBtn {
         display: block;
@@ -3274,7 +3274,7 @@ p {
     } */
     .swiper-button-prev,
     .swiper-container-rtl .swiper-button-next {
-        left: 4px !important;
+        left: 26px !important;
         right: auto;
     }
     .swiper-button-prev,
@@ -3330,7 +3330,7 @@ p {
     }
     .swiper-button-next,
     .swiper-container-rtl .swiper-button-prev {
-        right: 8px !important;
+        right: 25px !important;
         top: 279px !important;
         left: auto;
         /* padding-left: 9px; */
